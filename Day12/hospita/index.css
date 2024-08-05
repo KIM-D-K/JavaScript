@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    width: 500px;
+    padding: 5px 5px;
+}
+.hospitalName {
+    padding: 20px 16px;
+    border-radius: 14px;
+    border: 1px solid black;
+}
